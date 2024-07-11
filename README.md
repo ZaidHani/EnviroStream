@@ -9,7 +9,8 @@ EnviroStream is a data engineering project designed to process and analyze envir
 2. **Data Processing:** Spark Streaming acts as a consumer to read data from Kafka topics and processes the data.
 3. **Data Storage:** The processed data is stored in a Postgres database.
 4. **Data Visualization:** Streamlit reads the live data from the Postgres database and visualizes it through interactive dashboards.
-![Dashboard Showcase](https://github.com/ZaidHani/EnviroStream/blob/main/media/EnviroStream.drawio.png)
+[![Dashboard Showcase](https://github.com/ZaidHani/EnviroStream/blob/main/media/EnviroStream.drawio.png)
+](https://github.com/ZaidHani/EnviroStream/blob/main/media/Screenshot%20(763).png)
 
 ## Setup
 
