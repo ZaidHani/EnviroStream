@@ -1,0 +1,7 @@
+kaggle
+confluent-kafka
+pyspark
+matplotlib
+streamlit
+psycopg2
+plotly

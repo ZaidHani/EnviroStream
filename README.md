@@ -1,2 +1,4 @@
 # EnviroStream
-envirostream is real-time data analysis project
+
+Make sure to run the setup.py file in the src directory.
+To start, run the run.cmd file

@@ -1,0 +1,2 @@
+title Topics
+C:\kafka\kafka_2.12-3.7.1\bin\windows\kafka-topics.bat --create --bootstrap-server localhost:9092 --topic machine-1 --replication-factor 3 --partitions 3 && C:\kafka\kafka_2.12-3.7.1\bin\windows\kafka-topics.bat --create --bootstrap-server localhost:9092 --topic machine-2 --replication-factor 3 --partitions 3 && C:\kafka\kafka_2.12-3.7.1\bin\windows\kafka-topics.bat --create --bootstrap-server localhost:9092 --topic machine-3 --replication-factor 3 --partitions 3 && exit
