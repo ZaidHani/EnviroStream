@@ -2,6 +2,11 @@ import kaggle
 from pyspark.sql import SparkSession
 import pyspark.sql.functions as F
 import psycopg2
+import subprocess
+
+# Download kafka
+process = subprocess.run('src/download kafka.sh', shell=True)
+process.wait()
 
 # Download the data
 kaggle.api.authenticate()
